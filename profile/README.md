@@ -31,7 +31,5 @@ Business Advisor
 | Faisal Amrullah Pratama    | A123BSY2795 | Mobile Development |
 
 ## Links
-<p align="left">
   - **Figma:** https://www.figma.com/file/svjZzbUt9s4mzvsLiiuwmR/Capston-pesyong-team-library?type=design&node-id=2371-131&mode=design
   - **Figma Prototype:** https://www.figma.com/proto/svjZzbUt9s4mzvsLiiuwmR/Capston-pesyong-team-library?type=design&node-id=2371-415&t=moxbtS3nhGpfwZGj-0&scaling=min-zoom&page-id=2371%3A131&starting-point-node-id=2371%3A415
-<p>
