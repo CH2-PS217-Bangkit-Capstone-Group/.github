@@ -18,7 +18,7 @@ Machine Learning Advisor
 - **Zulchaidir Ashary**
 Business Advisor
 
-## Table of Members
+## Member List
 
 |            Name            |  Bangkit ID |   Learning Path    |
 | -------------------------- | ------------| ------------------ |
